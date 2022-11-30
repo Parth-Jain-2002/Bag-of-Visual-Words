@@ -19,9 +19,9 @@
 -> Stored the closet visual words in the closetVisualWords directory <br/>
 -> Got 60-65% accuracy on multiple runs (Variation due to randomness in k-means) <br/>
 
-![image](https://user-images.githubusercontent.com/72060359/204859134-fdcc157d-0d16-4580-9810-770e1299b44a.png)
+![image](https://user-images.githubusercontent.com/72060359/204859919-07fb510c-3998-4505-9d84-305d4f9861d1.png)
 
-Accuracy using both the classifiers (K-NN and SVM)
+![image](https://user-images.githubusercontent.com/72060359/204859134-fdcc157d-0d16-4580-9810-770e1299b44a.png)
 
 ![image](https://user-images.githubusercontent.com/72060359/204858468-c6c255d9-0ddd-4977-aeac-51b644d38b4c.png)
 
